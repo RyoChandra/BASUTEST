@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BACKGROUNDS
+    uniqueID: 3443826633
+    locked: 0
+  - name: PROPS
+    uniqueID: 168255809
+    locked: 0
+  - name: CHARACTER
+    uniqueID: 1376583749
+    locked: 0
+  - name: FOREGROUNDS
+    uniqueID: 1725013935
+    locked: 0
